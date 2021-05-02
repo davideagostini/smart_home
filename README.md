@@ -6,4 +6,4 @@ Learn how to use Flutter CustomPainter to beautify the UI of your next applicati
 
 Link to my tutorial tutorial
 
-- [Blog tutorial]() - Draw a circular control with CustomPainter in Flutter
+- [Blog tutorial](https://davideagostini.medium.com/draw-a-circular-control-with-custompainter-in-flutter-895cc3da0878?source=friends_link&sk=805385d80d991b0184c85370d8a0797e) - Draw a circular control with CustomPainter in Flutter
